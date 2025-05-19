@@ -1,5 +1,0 @@
-pandas
-joblib
-flask 
-flask_cors
-category_encoders 
