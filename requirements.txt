@@ -1,8 +1,8 @@
 flask==3.0.3
 flask_cors==4.0.0
-joblib==1.4.2
 gunicorn==21.2.0
+joblib==1.4.2
+numpy==1.24.4
 pandas==1.5.3
 scikit-learn==1.2.2
-category_encoders==2.7.0
-numpy==1.24.4
+category_encoders==2.6.0
